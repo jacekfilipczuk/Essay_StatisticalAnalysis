@@ -1,2 +1,11 @@
-# Thesis_StatisticalAnalysis
-My thesis on Statistical Analysis on a population sample, that i wrote for an university exam
+Statistical Analysis on population sample
+===========================
+
+##About
+This thesis presents a statistical analysis on a population sample, with graphics visualization and operations done in R studio.
+
+##Language
+Italian
+
+##Authors
+[Jacek Filipczuk](https://github.com/jacekfilipczuk) - [University of Salerno] (http://www.unisa.it)
