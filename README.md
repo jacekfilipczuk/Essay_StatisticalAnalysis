@@ -2,7 +2,7 @@ Statistical Analysis on population sample
 ===========================
 
 ##About
-This thesis presents a statistical analysis on a population sample, with graphics visualization and operations done in R studio.
+This essay presents a statistical analysis on a population sample, with graphics visualization and operations done in R studio.
 
 ##Language
 Italian
